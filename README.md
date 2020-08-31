@@ -4,6 +4,8 @@
 
 <center><audio id="audio" controls="" preload="none"> <source id="mp3" src="audio/video7089.mp3"> </audio></center>
 
+<script> var audio = new Audio("audio/video7089.mp3") audio.play() </script>
+
 | GT Caption:  a black man and a white man on american idol talk to the judges. |
 | :----------------------------------------------------------- |
 | <b>Generated Caption (Ours)</b>:  a man and a woman are talking on a talk show. |
