@@ -1,4 +1,4 @@
-# Video Captioning 
+# Video Captioning Demo
 
 <div align=center><img src="videos\msrvtt\video7089.gif" style="zoom:150%;" /> </div>
 
@@ -7,6 +7,8 @@
 <div align=center><center> <b>Generated Caption (Ours)</b>:  a man and a woman are talking on a talk show.</center></div>
 
 <div align=center><center><b>GT Caption</b>:  a black man and a white man on american idol talk to the judges.</center> </div>
+
+
 
 <div align=center><img src="videos\msrvtt\video8834.gif" style="zoom:150%;" /></div>
 
@@ -18,6 +20,8 @@
 
 <div align=center><center> <b>GT Caption</b>: a man wearing a red apron eats food out of a bowl in the kitchen. </center></div>
 
+
+
 <div align=center><img src="videos\msrvtt\video9818.gif" style="zoom:150%;" /></div>
 
 <div align=center><center><b>Generated Caption (Base)</b>: a woman is applying makeup on her face.</center></div>
@@ -25,6 +29,8 @@
 <div align=center><center><b>Generated Caption (Ours)</b>: a woman is applying makeup to her eyebrows with a brush.</center></div>
 
 <div align=center><center> <b>GT Caption</b>: a woman is applying eye makeup with a black brush.</center></div>
+
+
 
 <div align=center><img src="videos\msrvtt\video9149.gif" style="zoom:150%;" /></div>
 
