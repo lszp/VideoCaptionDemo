@@ -5,7 +5,7 @@
 <center><audio id="audio" controls="" preload="none"> <source id="mp3" src="audio/video7089.mp3"> </audio></center>
 
 | GT Caption:  a black man and a white man on american idol talk to the judges. |
-| :----------------------------------------------------------- |
+| ------------------------------------------------------------ |
 | <b>Generated Caption (Ours)</b>:  a man and a woman are talking on a talk show. |
 | <b>Generated Caption (Baseline[1])</b>:  a man is talking about a man. |
 
@@ -14,7 +14,7 @@
 <center><audio id="audio" controls="" preload="none"> <source id="mp3" src="audio/video8834.mp3"> </audio></center>
 
 | GT Caption: a man wearing a red apron eats food out of a bowl in the kitchen. |
-| ------------------------------------------------------------ |
+| :----------------------------------------------------------- |
 | <b>Generated Caption (Ours)</b>: a man in a white shirt is cooking a food in a kitchen. |
 | <b>Generated Caption (Baseline[1])</b>: a man in a kitchen is cooking food in a kitchen. |
 
@@ -25,7 +25,7 @@
 <center><audio id="audio" controls="" preload="none"> <source id="mp3" src="audio/video9818.mp3"> </audio></center>
 
 | <b>GT Caption</b>: a woman is applying eye makeup with a black brush. |
-| ------------------------------------------------------------ |
+| :----------------------------------------------------------- |
 | <b>Generated Caption (Ours)</b>: a woman is applying makeup to her eyebrows with a brush. |
 | <b>Generated Caption (Baseline[1])</b>: a woman is applying makeup on her face. |
 
@@ -36,7 +36,7 @@
 <center><audio id="audio" controls="" preload="none"> <source id="mp3" src="audio/video9149.mp3"> </audio></center>
 
 | <b>GT Caption</b>: a boy and a girl are singing for a competition. |
-| ------------------------------------------------------------ |
+| :----------------------------------------------------------- |
 | <b>Generated Caption (Ours)</b>: a group of people are singing on stage. |
 | <b>Generated Caption (Baseline[1])</b>: a boy is singing on stage. |
 
