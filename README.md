@@ -1,6 +1,6 @@
 # Video Captioning Demo
 
-<div align=center><img src="videos\msrvtt\video7089_temp.gif" style="zoom:150%;" /> </div>
+<img src="videos\msrvtt\video7089_temp.gif" style="zoom:150%;" /> 
 
 <center><audio id="audio" controls="" preload="none"> <source id="mp3" src="audio/video7089.mp3"> </audio></center>
 
@@ -9,18 +9,18 @@
 | <b>Generated Caption (Ours)</b>:  a man and a woman are talking on a talk show. |
 | <b>Generated Caption (Baseline[1])</b>:  a man is talking about a man. |
 
-<div align=center><img src="videos\msrvtt\video8834_temp.gif" style="zoom:150%;" /></div>
+<img src="videos\msrvtt\video8834_temp.gif" style="zoom:150%;" /> 
 
 <center><audio id="audio" controls="" preload="none"> <source id="mp3" src="audio/video8834.mp3"> </audio></center>
 
 | GT Caption: a man wearing a red apron eats food out of a bowl in the kitchen. |
 | ------------------------------------------------------------ |
-| <b> Generated Caption (Ours)</b>: a man in a white shirt is cooking a food in a kitchen. |
+| <b>Generated Caption (Ours)</b>: a man in a white shirt is cooking a food in a kitchen. |
 | <b>Generated Caption (Baseline[1])</b>: a man in a kitchen is cooking food in a kitchen. |
 
 
 
-<div align=center><img src="videos\msrvtt\video9818_temp.gif" style="zoom:150%;" /></div>
+<img src="videos\msrvtt\video9818_temp.gif" style="zoom:150%;" /> 
 
 <center><audio id="audio" controls="" preload="none"> <source id="mp3" src="audio/video9818.mp3"> </audio></center>
 
@@ -31,7 +31,7 @@
 
 
 
-<div align=center><img src="videos\msrvtt\video9149_temp.gif" style="zoom:150%;" /></div>
+<img src="videos\msrvtt\video9149_temp.gif" style="zoom:150%;" /> 
 
 <center><audio id="audio" controls="" preload="none"> <source id="mp3" src="audio/video9149.mp3"> </audio></center>
 
